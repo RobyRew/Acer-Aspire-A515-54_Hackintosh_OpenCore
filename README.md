@@ -1,6 +1,7 @@
 # Acer-Aspire-A515-54_Hackintosh_OpenCore
 Complete guide on how to install macOS using OpenCore on Acer Aspire A515-54 and maybe similar A515-xx models
 
+Didn't work F
 
 A college friend laptop, he wants macOS, so let's try this
 
